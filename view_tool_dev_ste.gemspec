@@ -10,14 +10,14 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Various view specific methods for applications I use."
   spec.description = "Provides generated HTML data for Rails applications."
-  spec.homepage = "https://github.com/StevanCubrilo"
+  spec.homepage = "https://github.com/StevanCubrilo/view_tool_dev_ste"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
   
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/StevanCubrilo"
+  spec.metadata["source_code_uri"] = "https://github.com/StevanCubrilo/view_tool_dev_ste"
   
 
   # Specify which files should be added to the gem when it is released.
